@@ -1,0 +1,10 @@
+C:\Users\Insecap\OneDrive\Magister\Software\GitHubApiSnippets\GitHubApiSnippets\bin\Debug\GitHubApiSnippets.exe.config
+C:\Users\Insecap\OneDrive\Magister\Software\GitHubApiSnippets\GitHubApiSnippets\bin\Debug\GitHubApiSnippets.exe
+C:\Users\Insecap\OneDrive\Magister\Software\GitHubApiSnippets\GitHubApiSnippets\bin\Debug\GitHubApiSnippets.pdb
+C:\Users\Insecap\OneDrive\Magister\Software\GitHubApiSnippets\GitHubApiSnippets\bin\Debug\Octokit.dll
+C:\Users\Insecap\OneDrive\Magister\Software\GitHubApiSnippets\GitHubApiSnippets\bin\Debug\Octokit.xml
+C:\Users\Insecap\OneDrive\Magister\Software\GitHubApiSnippets\GitHubApiSnippets\obj\Debug\GitHubApiSnippets.csprojAssemblyReference.cache
+C:\Users\Insecap\OneDrive\Magister\Software\GitHubApiSnippets\GitHubApiSnippets\obj\Debug\GitHubApiSnippets.csproj.CoreCompileInputs.cache
+C:\Users\Insecap\OneDrive\Magister\Software\GitHubApiSnippets\GitHubApiSnippets\obj\Debug\GitHubApiSnippets.csproj.CopyComplete
+C:\Users\Insecap\OneDrive\Magister\Software\GitHubApiSnippets\GitHubApiSnippets\obj\Debug\GitHubApiSnippets.exe
+C:\Users\Insecap\OneDrive\Magister\Software\GitHubApiSnippets\GitHubApiSnippets\obj\Debug\GitHubApiSnippets.pdb
